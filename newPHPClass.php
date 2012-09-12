@@ -12,8 +12,14 @@
  */
 class newPHPClass {
     //put your code here
-    // cek . . 
-    // update coba git, mana updatemu
+    // andys apakah kamu ngedit baris ini ?
+    
+    public function save(){}
 }
-
+/*
+ * 
+ * hvsalkigh b sa ghskgfskgf skg sgs gogs gs 
+ * numebr 2 edited
+ * 
+ */
 ?>
