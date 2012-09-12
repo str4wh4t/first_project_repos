@@ -14,6 +14,9 @@ class newPHPClass {
     //put your code here
     // andys apakah kamu ngedit baris ini ?
     // oh ini yg mengubah adalah mochamad idris
+    public function addData(){
+        // mochamad idris menambahkan function ini
+    }
 }
 /*
  * 
