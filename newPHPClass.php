@@ -12,6 +12,7 @@
  */
 class newPHPClass {
     //put your code here
+    // andys apakah kamu ngedit baris ini ?
 }
 
 ?>
