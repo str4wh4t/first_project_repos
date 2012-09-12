@@ -11,6 +11,10 @@
  * @author Ansanwan
  */
 class newUpdate2PHPClass {
+    
+    public function addData(){
+        // aku mencoba menambahkan fungsi ini (andys)
+    }
     //put your code here
 }
 
