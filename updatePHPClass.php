@@ -12,6 +12,7 @@
  */
 class updatePHPClass {
     //put your code here
+    //update dari file updateClass
 }
 
 ?>
