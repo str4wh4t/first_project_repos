@@ -13,6 +13,7 @@
 class newPHPClass {
     //put your code here
     // cek . . 
+    // update coba git, mana updatemu
 }
 
 ?>
