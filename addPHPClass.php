@@ -6,14 +6,12 @@
  */
 
 /**
- * Description of newPHPClass
+ * Description of addPHPClass
  *
  * @author StrawHat
  */
-class newPHPClass {
+class addPHPClass {
     //put your code here
-    // andys apakah kamu ngedit baris ini ?
-    // oh ini yg mengubah adalah mochamad idris
 }
 
 ?>
