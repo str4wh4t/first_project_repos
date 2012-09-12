@@ -13,8 +13,7 @@
 class newPHPClass {
     //put your code here
     // andys apakah kamu ngedit baris ini ?
-    
-    public function save(){}
+    // oh ini yg mengubah adalah mochamad idris
 }
 /*
  * 
